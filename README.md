@@ -5,6 +5,13 @@
 - [Link al proyecto](https://iseazy-meteo.vercel.app/)
 - [Link al repositorio](https://github.com/jose2296/prueba-tecnica-iseazy)
 
+## Instrucciones para ejecutar la aplicación
+- Clonar el repositorio
+- Instalar las dependencias con `npm install`
+- Ejecutar la aplicación con `npm run dev`
+- Ejecutar las pruebas con `npm run test`
+- Ejecutar las pruebas en modo watch con `npm run test:watch`
+- Build de la aplicación con `npm run build`
 
 ## Organización del código
 Aunque la aplicación no es muy grande y no hay muchos archivos, he intentado organizarlo pensando en una aplicación más grande y facilitando la escalabilidad
