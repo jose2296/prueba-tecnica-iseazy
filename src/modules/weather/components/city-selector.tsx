@@ -11,7 +11,7 @@ const CitySelector = () => {
             <h3 className='text-lg font-semibold text-base-content'>
                 {t('city_selector.title')}
             </h3>
-            <div className='flex flex-col gap-2'>
+            <div className='flex flex-col gap-2' data-testId='city-selector'>
                 {availableCities.map((_city) => (
                     <Button
                         key={_city}

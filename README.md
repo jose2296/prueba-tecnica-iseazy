@@ -1,3 +1,10 @@
+# IsEazy - Meteo
+
+- Prueba técnica para IsEazy
+- Desarrollada con React y TypeScript
+- [Link al proyecto](https://iseazy-meteo.vercel.app/)
+- [Link al repositorio](https://github.com/jose2296/prueba-tecnica-iseazy)
+
 
 ## Organización del código
 Aunque la aplicación no es muy grande y no hay muchos archivos, he intentado organizarlo pensando en una aplicación más grande y facilitando la escalabilidad
@@ -18,3 +25,6 @@ La descripción del tiempo (nubes, soleado, lluvia...) se traduce en la llamada 
 
 ## Otras observaciones
 No he tenido en cuenta la hora local de cada ciudad, por lo que se muestra la hora actual del usuario.
+
+## Pruebas
+He realizado un par de tests unitarios con vitest para un componente (carpeta src/tests).
