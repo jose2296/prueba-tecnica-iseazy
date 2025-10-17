@@ -6,7 +6,7 @@
 - [Link al repositorio](https://github.com/jose2296/prueba-tecnica-iseazy)
 
 ## Instrucciones para ejecutar la aplicación
-- Clonar el repositorio
+- Crear el archivo .env `cp .env.example .env` y rellenar la clave de la API de OpenWeatherMap
 - Instalar las dependencias con `npm install`
 - Ejecutar la aplicación con `npm run dev`
 - Ejecutar las pruebas con `npm run test`
