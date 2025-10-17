@@ -1,0 +1,7 @@
+.city-background {
+    background-image: url('/assets/city-background.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center bottom;
+    opacity: 0.15;
+}

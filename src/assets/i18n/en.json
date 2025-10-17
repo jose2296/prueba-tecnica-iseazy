@@ -1,0 +1,19 @@
+{
+    "title": "Meteo en",
+    "city_selector": {
+        "title": "Select a city to see its weather:",
+        "cities": {
+            "london": "London",
+            "toronto": "Toronto",
+            "singapore": "Singapore"
+        }
+    },
+    "weather_summary": {
+        "feels_like": "Feels like",
+        "max": "Max",
+        "min": "Min"
+    },
+    "weather_forecast": {
+        "title": "Prevision for the next hours"
+    }
+}

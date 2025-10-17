@@ -1,0 +1,19 @@
+{
+    "title": "Meteo es",
+    "city_selector": {
+        "title": "Selecciona una ciudad para ver su clima:",
+        "cities": {
+            "london": "Londres",
+            "toronto": "Toronto",
+            "singapore": "Singapur"
+        }
+    },
+    "weather_summary": {
+        "feels_like": "Sensación térmica",
+        "max": "Max",
+        "min": "Min"
+    },
+    "weather_forecast": {
+        "title": "Previsión para las próximas horas"
+    }
+}
