@@ -32,6 +32,7 @@ La descripción del tiempo (nubes, soleado, lluvia...) se traduce en la llamada 
 
 ## Otras observaciones
 No he tenido en cuenta la hora local de cada ciudad, por lo que se muestra la hora actual del usuario.
+Tampoco he manejado los posibles errores de la API (si la ciudad no existe, si la API no responde...). Lo que haría seria controlar los posibles errores en el servicio weather-api.ts y devolver un error con un mensaje que se muestre en la pantalla correspondiente.
 
 ## Pruebas
-He realizado un par de tests unitarios con vitest para un componente (carpeta src/tests).
+He realizado un par de tests unitarios simples con vitest para un componente (carpeta src/tests).
